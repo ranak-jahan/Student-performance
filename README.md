@@ -19,9 +19,13 @@ Codes
 
 Student performance.ipynb: Load dataset then analysis dataset.
 Changing column value then finding correlation between all columns.
+
 predict_math_score.ipynb: Making feature set then using Support Vector Regression and Linear Regression to predict math score.
+
 predict_reading_score.ipynb: simillar works to predict reading score.
+
 predict_writing_score.ipynb: simillar works to predict writing score.
+
 predict_total_score.ipynb: simillar works to predict total score.
 
 What could be done in the future?
