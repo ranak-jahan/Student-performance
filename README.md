@@ -30,7 +30,9 @@ predict_total_score.ipynb: simillar works to predict total score.
 
 What could be done in the future?
 
-USing other regression algorithm<br>
-How effective is the test preparation course?<br>
-Which major factors contribute to test outcomes?<br>
-What would be the best way to improve student scores on each test?<br>
+Using creative techniques to ensemble.
+
+Using differnt regression algorithm and observe the performance
+
+Using lasso regression
+
