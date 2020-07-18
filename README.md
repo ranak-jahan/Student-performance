@@ -1,5 +1,5 @@
 # Student-performance
-This repo will guide you through the basic analysis, EDA and simple ML algorithm.
+This repo is about basic data analysis, EDA, and simple ML algorithms. Here linear and Support vector Regression is used to predict the score.
 
 What the project is about?
 
